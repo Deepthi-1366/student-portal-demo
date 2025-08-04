@@ -1,2 +1,2 @@
 # student-portal-demo
-All about the student portal
+In student portal we have: -->course details -->Class materials -->Academic Records -->Financial Information -->Attendance Tracking -->Profile Management
